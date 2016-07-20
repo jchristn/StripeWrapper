@@ -7,6 +7,7 @@
         <authors>Joel Christner</authors>
         <owners>Joel Christner</owners>
         <licenseUrl>https://github.com/jchristn/StripeWrapper/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/jchristn/StripeWrapper/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>My package description.</description>
         <summary>A simple C# wrapper for Stripe charges and refunds</summary>
@@ -15,11 +16,11 @@
         <language />
     </metadata>
     <files>
-        <file src="..\StripeWrapper\bin\Release\Newtonsoft.Json.xml" target="content\Newtonsoft.Json.xml" />
-        <file src="..\StripeWrapper\bin\Release\Newtonsoft.Json.dll" target="lib\Newtonsoft.Json.dll" />
-        <file src="..\StripeWrapper\bin\Release\RestWrapper.dll" target="lib\RestWrapper.dll" />
-        <file src="..\StripeWrapper\bin\Release\RestWrapper.pdb" target="lib\RestWrapper.pdb" />
-        <file src="..\StripeWrapper\bin\Release\StripeWrapper.dll" target="lib\StripeWrapper.dll" />
-        <file src="..\StripeWrapper\bin\Release\StripeWrapper.pdb" target="lib\StripeWrapper.pdb" />
+        <file src="content\Newtonsoft.Json.xml" target="content\Newtonsoft.Json.xml" />
+        <file src="lib\Newtonsoft.Json.dll" target="lib\Newtonsoft.Json.dll" />
+        <file src="lib\RestWrapper.dll" target="lib\RestWrapper.dll" />
+        <file src="lib\RestWrapper.pdb" target="lib\RestWrapper.pdb" />
+        <file src="lib\StripeWrapper.dll" target="lib\StripeWrapper.dll" />
+        <file src="lib\StripeWrapper.pdb" target="lib\StripeWrapper.pdb" />
     </files>
 </package>
