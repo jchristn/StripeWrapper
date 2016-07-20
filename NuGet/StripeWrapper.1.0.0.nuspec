@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>StripeWrapper</id>
+        <version>1.0.0</version>
+        <title>A simple C# wrapper for Stripe charges and refunds</title>
+        <authors>Joel Christner</authors>
+        <owners>Joel Christner</owners>
+        <licenseUrl>https://github.com/jchristn/StripeWrapper/blob/master/LICENSE.txt</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>My package description.</description>
+        <summary>A simple C# wrapper for Stripe charges and refunds</summary>
+        <releaseNotes>First version</releaseNotes>
+        <copyright>(c) 2016</copyright>
+        <language />
+    </metadata>
+    <files>
+        <file src="..\StripeWrapper\bin\Release\Newtonsoft.Json.xml" target="content\Newtonsoft.Json.xml" />
+        <file src="..\StripeWrapper\bin\Release\Newtonsoft.Json.dll" target="lib\Newtonsoft.Json.dll" />
+        <file src="..\StripeWrapper\bin\Release\RestWrapper.dll" target="lib\RestWrapper.dll" />
+        <file src="..\StripeWrapper\bin\Release\RestWrapper.pdb" target="lib\RestWrapper.pdb" />
+        <file src="..\StripeWrapper\bin\Release\StripeWrapper.dll" target="lib\StripeWrapper.dll" />
+        <file src="..\StripeWrapper\bin\Release\StripeWrapper.pdb" target="lib\StripeWrapper.pdb" />
+    </files>
+</package>
