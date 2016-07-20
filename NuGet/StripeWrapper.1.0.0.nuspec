@@ -3,13 +3,13 @@
     <metadata>
         <id>StripeWrapper</id>
         <version>1.0.0</version>
-        <title>A simple C# wrapper for Stripe charges and refunds</title>
+        <title>StripeWrapper</title>
         <authors>Joel Christner</authors>
         <owners>Joel Christner</owners>
         <licenseUrl>https://github.com/jchristn/StripeWrapper/blob/master/LICENSE.txt</licenseUrl>
         <projectUrl>https://github.com/jchristn/StripeWrapper/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>My package description.</description>
+        <description>A simple C# wrapper for Stripe charges and refunds</description>
         <summary>A simple C# wrapper for Stripe charges and refunds</summary>
         <releaseNotes>First version</releaseNotes>
         <copyright>(c) 2016</copyright>
