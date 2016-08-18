@@ -1,4 +1,10 @@
 # Stripe Wrapper
+
+[![][nuget-img]][nuget]
+
+[nuget]:     https://www.nuget.org/packages/StripeWrapper/
+[nuget-img]: https://badge.fury.io/nu/Object.svg
+
 A simple C# class library for performing Stripe charges and refunds.  This class isn't meant to be a complete SDK for Stripe but rather a simple example to help you construct and manage your own requests and responses.
 
 ## Test App

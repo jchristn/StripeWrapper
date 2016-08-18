@@ -14,6 +14,7 @@
         <releaseNotes>First version</releaseNotes>
         <copyright>(c) 2016</copyright>
         <language />
+        <tags>stripe payment payments charge authorize refund void credit card square</tags>
     </metadata>
     <files>
         <file src="content\Newtonsoft.Json.xml" target="content\Newtonsoft.Json.xml" />
