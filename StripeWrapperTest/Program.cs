@@ -4,8 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using StripeWrapper;
-using RestWrapper;
+using StripeWrapper; 
 using Newtonsoft.Json.Linq;
 
 namespace StripeWrapper

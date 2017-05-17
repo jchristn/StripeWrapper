@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>StripeWrapper</id>
+        <version>1.0.1</version>
+        <title>StripeWrapper</title>
+        <authors>Joel Christner</authors>
+        <owners>Joel Christner</owners>
+        <licenseUrl>https://github.com/jchristn/StripeWrapper/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/jchristn/StripeWrapper/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A simple C# wrapper for Stripe charges and refunds</description>
+        <summary>A simple C# wrapper for Stripe charges and refunds</summary>
+        <releaseNotes>TLS v1.2</releaseNotes>
+        <copyright>(c) 2017 Marauder Software Inc.</copyright>
+        <language />
+        <tags>stripe payment payments charge authorize refund void credit card square</tags>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="9.0.0" />
+            <dependency id="RestWrapper" version="1.0.6" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\StripeWrapper\bin\Release\StripeWrapper.dll" target="lib\StripeWrapper.dll" />
+        <file src="..\StripeWrapper\bin\Release\StripeWrapper.pdb" target="lib\StripeWrapper.pdb" />
+    </files>
+</package>

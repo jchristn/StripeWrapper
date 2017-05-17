@@ -7,6 +7,9 @@
 
 A simple C# class library for performing Stripe charges and refunds.  This class isn't meant to be a complete SDK for Stripe but rather a simple example to help you construct and manage your own requests and responses.
 
+## What's New in v1.0.1
+- TLS 1.2
+
 ## Test App
 A test project is included which will help you exercise the class library.
 
@@ -68,3 +71,7 @@ else
    Console.WriteLine(wrapper.SerializeJson(responseBody));
 }
 ```
+
+## Version History
+v1.0.x
+- Initial release

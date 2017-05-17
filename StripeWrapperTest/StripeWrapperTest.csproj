@@ -55,10 +55,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RestWrapper\RestWrapper.csproj">
-      <Project>{631ce54d-c63b-47ef-9f78-699377e9547e}</Project>
-      <Name>RestWrapper</Name>
-    </ProjectReference>
     <ProjectReference Include="..\StripeWrapper\StripeWrapper.csproj">
       <Project>{0840b249-f041-482f-ba8e-4e9b8f25f307}</Project>
       <Name>StripeWrapper</Name>

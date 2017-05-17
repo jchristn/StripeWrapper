@@ -2,8 +2,7 @@ D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\StripeWrapper.dll
 D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\StripeWrapper.pdb
 D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\Newtonsoft.Json.dll
 D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\RestWrapper.dll
-D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\RestWrapper.pdb
 D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\Newtonsoft.Json.xml
-D:\Code\Misc\StripeWrapper\StripeWrapper\obj\Release\StripeWrapper.csprojResolveAssemblyReference.cache
+D:\Code\Misc\StripeWrapper\StripeWrapper\bin\Release\RestWrapper.pdb
 D:\Code\Misc\StripeWrapper\StripeWrapper\obj\Release\StripeWrapper.dll
 D:\Code\Misc\StripeWrapper\StripeWrapper\obj\Release\StripeWrapper.pdb
